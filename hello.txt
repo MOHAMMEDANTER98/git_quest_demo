@@ -1,1 +1,1 @@
-Hello, this is version B
+Hello, this is a merged version between A and B
